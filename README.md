@@ -18,9 +18,9 @@
 #🌌 Rudra Noir — The Vibe Coder
 
 
-{> Loading Profile... ███████░░ 76% }
-{> Welcome, Wanderer.}
-{> Current Quest: Level up coding | Explore isekai projects
+> Loading Profile... ███████░░ 76% 
+> Welcome, Wanderer.
+> Current Quest: Level up coding | Explore isekai projects
 
 🔧 Arsenal of a Wanderer
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /> </p>
