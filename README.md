@@ -5,14 +5,16 @@
   </a>
 </p>
 
+
 ![Header](https://github.com/rudranoir0-dot/rudranoir0-dot/blob/main/header.png)
 
-# 🌌 Rudra Noir — The Vibe Coder
 
+#🌌 Rudra Noir — The Vibe Coder
 
-Loading Profile... ██████░░░░░░ 72% }
+```diff
+{> Loading Profile... ███████░░ 76% }
 {> Welcome, Wanderer.}
-{> Current Quest: Level up coding | Explore isekai projects | } 
+{> Current Quest: Level up coding | Explore isekai projects
 
 “Week by week, I walk this trial.
 The first echoes were fragile — Python scripts, a voice whispered back by an LLM.
