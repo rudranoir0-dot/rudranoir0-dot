@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header](https://github.com/rudranoir0-dot/rudranoir0-dot/blob/main/header.png)
 
 <!--
 **rudranoir0-dot/rudranoir0-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
