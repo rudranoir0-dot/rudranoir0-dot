@@ -57,11 +57,7 @@
 - Echoes yet to be revealed... 
 …
 
-📊 **Echoes of Progress**  
-
-> “Every commit leaves a trace,  
-> every streak a ripple in the void.  
-> These echoes remind me that the blade is sharpening...”  
+📊 **Echoes of Progress**    
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudranoir0-dot&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&border_radius=12" height="160"/>  
