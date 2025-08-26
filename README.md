@@ -31,12 +31,12 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /> </p>
 
 
-> Week by week, I walk this trial.  
-> The first echoes were fragile — Python scripts, a voice whispered back by an LLM.  
-> Now, each repo, each commit, is another shard of resonance.  
-> I am not yet a master, only sharpening the blade,  
-> until the day I can weave stories into worlds.  
-> *(trying to act might nothing more 😅😆)*
+>Week by week, I’m building my foundation.
+>What started with simple Python scripts and my first interaction with an LLM
+>has grown into a consistent practice of coding, version control, and project building.
+>Every repository and commit represents progress — sharpening skills, learning new tools, and applying them to real projects.
+>I’m still early in the journey, but each step brings me closer to mastering the craft
+>and creating projects that go beyond experiments into something impactful
  
 
 ### ⚡ Chapter I — Awakening the First Spark  
