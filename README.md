@@ -1,9 +1,8 @@
 <!-- Typing Banner (animated SVG) -->
 <p align="center">
-  <a href="https://github.com/rudranoir0-dot">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=700&lines=%3E+Resonating...;%3E+Weaving+echoes+into+code...;%3E+Vibe+Coder+in+training...;%3E+Becoming+the+Resonator+world+awaits." alt="typing intro" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=8EF7E4&center=true&vCenter=true&width=800&lines=🌌+Rudra+Noir+—+The+Vibe+Coder;Weaving+Echoes+into+Worlds;Training+Arc+in+Progress..." />
 </p>
+
 
 
 ![Header](https://github.com/rudranoir0-dot/rudranoir0-dot/blob/main/header.png)
