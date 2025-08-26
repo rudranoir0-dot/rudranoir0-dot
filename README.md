@@ -1,8 +1,9 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=7AF7E4&center=true&vCenter=true&width=900&lines=🌌+Rudra+Noir+—+The+Vibe+Coder;>+Loading+Profile...;>+Weaving+echoes+into+worlds...;>+Training+Arc+in+progress...;>+Resonate.+Create.+Evolve." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=7AF7E4&background=00000000&center=true&vCenter=true&width=900&lines=%F0%9F%8C%8C+Rudra+Noir+-+The+Vibe+Coder;%3E+Loading+Profile...;%3E+Weaving+echoes+into+worlds...;%3E+Training+Arc+in+progress...;%3E+Resonate.+Create.+Evolve."
+    alt="typing header"
+  />
 </p>
-
 
 
 
