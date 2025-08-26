@@ -19,15 +19,10 @@
 </p>
 
 
-# 🌌 Rudra Noir — The Vibe Coder
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=750&lines=⟨⟨+W̷e̷l̷c̷o̷m̷e̷,+W̷a̷n̷d̷e̷r̷e̷r̷+⟩⟩;⟨⟨+C̸u̸r̸r̸e̸n̸t̸+Q̸u̸e̸s̸t̸:+Isekai.exe+Running...+⟩⟩" alt="glitch typing intro"/>
+</p>
 
-<div align="center">
-<pre>
-▶ Loading Profile... ████████░░ 82%
-▶ Welcome, Wanderer.
-▶ Current Quest: Level up coding | Working isekai projects 
-</pre>
-</div>
 
 🔧 Arsenal of a Wanderer
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /> </p>
