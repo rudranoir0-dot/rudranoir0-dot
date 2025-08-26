@@ -1,11 +1,9 @@
-<!-- Typing Banner (animated SVG) -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=8EF7E4&center=true&vCenter=true&width=800&lines=🌌+Rudra+Noir+—+The+Vibe+Coder;Weaving+Echoes+into+Worlds;Training+Arc+in+Progress..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=7AF7E4&center=true&vCenter=true&width=900&lines=🌌+Rudra+Noir+—+The+Vibe+Coder;>+Loading+Profile...;>+Weaving+echoes+into+worlds...;>+Training+Arc+in+progress...;>+Resonate.+Create.+Evolve." />
 </p>
 
 
-
-![Header](https://github.com/rudranoir0-dot/rudranoir0-dot/blob/main/header.png)
 
 
 ### 🕯️ Daily Mantra
