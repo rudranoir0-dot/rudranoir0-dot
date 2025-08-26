@@ -9,18 +9,27 @@
 ![Header](https://github.com/rudranoir0-dot/rudranoir0-dot/blob/main/header.png)
 
 
-🕯️ Daily Mantra
+### 🕯️ Daily Mantra
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=6AF7E4&center=true&vCenter=true&width=500&lines=The+blade+dulls+if+not+sharpened.+Commit+today.;Stories+are+fragments.+Code+makes+them+whole.;Every+line+is+an+echo+etched+into+time." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=700&color=38BDF8&background=00000000&center=true&vCenter=true&width=700&height=40&cursor=%E2%96%88&lines=%3E+Resonating...;%3E+Weaving+echoes+into+code...;%3E+Vibe+Coder+in+training..."
+  />
+  <br/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=700&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&height=40&cursor=%E2%96%88&lines=%3E+Commit+today.;%3E+Ship+small%2C+ship+often.;%3E+Weave+worlds+from+silence."
+  />
 </p>
 
 
-#🌌 Rudra Noir — The Vibe Coder
+# 🌌 Rudra Noir — The Vibe Coder
 
-
-> Loading Profile... ███████░░ 76% 
-> Welcome, Wanderer.
-> Current Quest: Level up coding | Explore isekai projects
+<div align="center">
+<pre>
+▶ Loading Profile... ████████░░ 82%
+▶ Welcome, Wanderer.
+▶ Current Quest: Level up coding | Working isekai projects 
+</pre>
+</div>
 
 🔧 Arsenal of a Wanderer
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /> </p>
