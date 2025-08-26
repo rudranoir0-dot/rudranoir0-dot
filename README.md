@@ -13,15 +13,7 @@
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=700&color=38BDF8&background=00000000&center=true&vCenter=true&width=700&height=40&cursor=%E2%96%88&lines=%3E+Resonating...;%3E+Weaving+echoes+into+code...;%3E+Vibe+Coder+in+training..."
   />
   <br/>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=700&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&height=40&cursor=%E2%96%88&lines=%3E+Commit+today.;%3E+Ship+small%2C+ship+often.;%3E+Weave+worlds+from+silence."
-  />
-</p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=750&lines=⟨⟨+W̷e̷l̷c̷o̷m̷e̷,+W̷a̷n̷d̷e̷r̷e̷r̷+⟩⟩;⟨⟨+C̸u̸r̸r̸e̸n̸t̸+Q̸u̸e̸s̸t̸:+Isekai.exe+Running...+⟩⟩" alt="glitch typing intro"/>
-</p>
 
 
 🔧 Arsenal of a Wanderer
