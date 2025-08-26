@@ -20,10 +20,11 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=28&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=900&height=45&lines=%E2%9C%A6+Welcome,+Wanderer+of+Echoes+%E2%9C%A6;⟡+Current+Quest:+Weave+worlds+with+code+%7C+Deploying+Isekai+Protocols"
+    src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=28&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=900&height=45&lines=%E2%9C%A6%20Welcome%2C%20Wanderer%20of%20Echoes%20%E2%9C%A6;%E2%9F%A1%20Current%20Quest%3A%20Weave%20worlds%20with%20code%20%7C%20Deploying%20Isekai%20Protocols"
     alt="mystic typing banner"
   />
 </p>
+
 
 
 🔧 Arsenal of a Wanderer
