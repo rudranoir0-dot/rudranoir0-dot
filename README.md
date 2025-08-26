@@ -18,6 +18,13 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=28&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=900&height=45&lines=%E2%9C%A6+Welcome,+Wanderer+of+Echoes+%E2%9C%A6;⟡+Current+Quest:+Weave+worlds+with+code+%7C+Deploying+Isekai+Protocols"
+    alt="mystic typing banner"
+  />
+</p>
+
 
 🔧 Arsenal of a Wanderer
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /> </p>
