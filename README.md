@@ -22,12 +22,6 @@
 🔧 Arsenal of a Wanderer
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /> </p>
 
- ⚔️ Artifact Inventory
-- 🐍 **Python** — *Serpent’s Tongue* (language of hidden logic)
-- 🖋️ **VS Code** — *Scroll of Infinite Drafts*
-- 🌀 **Git** — *Threads of Memory*
-- ☁️ **GitHub** — *Vault of Eternal Commits*
-
 
 > Week by week, I walk this trial.  
 > The first echoes were fragile — Python scripts, a voice whispered back by an LLM.  
