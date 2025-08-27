@@ -48,31 +48,34 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /> </p>
 
 
->Week by week, I’m building my foundation.
->What started with simple Python scripts and my first interaction with an LLM
->has grown into a consistent practice of coding, version control, and project building.
->Every repository and commit represents progress — sharpening skills, learning new tools, and applying them to real projects.
->I’m still early in the journey, but each step brings me closer to mastering the craft
->and creating projects that go beyond experiments into something impactful
- 
 
-### ⚡ Chapter I — Awakening the First Spark  
-- Python basics  
-- Summoning the LLM  
-- Writing the first scripts  
+# 🌊 The Journey So Far
+
+What began as simple steps into Python scripting quickly unfolded into a much larger path — one shaped by curiosity, discipline, and imagination.  
+Each line of code became more than just logic; it became a way to explore, experiment, and push beyond limits.
 
 ---
 
-### 🔮 Chapter II — Weaving the Memory Threads *(Now Entering)*  
-- Git mastery  
-- Preserving knowledge  
-- Crafting small agents  
+## ⚡ Chapter I — First Sparks  
+Learning Python basics, writing small scripts, automating tasks, and taking the first steps into AI.  
+
+## 🛡 Chapter II — Into the Shadows *(Now Entering)*  
+Exploring Cybersecurity — mastering tools, protecting systems, and learning to see the unseen.  
+
+## 🌌 Chapter III — Fragments of Tomorrow *(Ongoing)*  
+Experimenting with AI models, anime-inspired worlds, and game systems like **Wuthering Waves** — where creativity meets technology.  
 
 ---
 
-### 🌌 On the Horizon…  
-- Echoes yet to be revealed... 
-…
+## ✧ On the Horizon  
+This journey isn’t just about tools or frameworks — it’s about building **projects that feel alive**, blending **art, security, and intelligence** into something greater than experiments.  
+Each commit, each repo, is another ripple toward that vision.  
+
+---
+
+💡 *Currently focused on mastering Cybersecurity while weaving AI + creative coding into future projects.* 
+
+---
 
 📊 **Echoes of Progress**    
 
