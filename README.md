@@ -42,13 +42,9 @@
 
 
 
-<p align="center">
-  <img src="arsenal image.png" alt="Arsenal of a Wanderer" />
-</p>
 
+<h2 align="center">✧ Arsenal of a Wanderer ✧</h2>
 <p align="center">━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━</p>
-
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /> </p>
 
 
