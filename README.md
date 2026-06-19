@@ -49,44 +49,8 @@
 
 
 
-# 🌊 The Journey So Far
 
-What began as simple steps into Python scripting quickly unfolded into a much larger path — one shaped by curiosity, discipline, and imagination.  
-Each line of code became more than just logic; it became a way to explore, experiment, and push beyond limits.
 
----
-
-## ⚡ Chapter I — First Sparks  
-Learning Python basics, writing small scripts, automating tasks, and taking the first steps into AI.  
-
-## 🛡 Chapter II — Into the Shadows *(Now Entering)*  
-Exploring Cybersecurity — mastering tools, protecting systems, and learning to see the unseen.  
-
-## 🌌 Chapter III — Fragments of Tomorrow *(Ongoing)*  
-Experimenting with AI models, anime-inspired worlds, and game systems like **Wuthering Waves** — where creativity meets technology.  
-
----
-
-## ✧ On the Horizon  
-This journey isn’t just about tools or frameworks — it’s about building **projects that feel alive**, blending **art, security, and intelligence** into something greater than experiments.  
-Each commit, each repo, is another ripple toward that vision.  
-
----
-
-💡 *Currently focused on mastering Cybersecurity while weaving AI + creative coding into future projects.* 
-
----
-
-📊 **Echoes of Progress**    
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudranoir0-dot&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&border_radius=12" height="160"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rudranoir0-dot&theme=tokyonight&hide_border=false&border_radius=12" height="160"/>  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudranoir0-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=12" height="140"/>
-</p>
 
 
 <p align="center"><b>🖤 Crafted by Rudra Noir</b></p> ```
