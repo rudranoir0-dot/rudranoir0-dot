@@ -1,0 +1,62 @@
+{
+  "realm_name": "RUDRA NOIR — The Living Realm",
+  "owner": "rudranoir0-dot",
+  "projects": [
+    {
+      "name": "EchoSec: Resonance Protocol",
+      "repository": "https://github.com/rudranoir0-dot/echosec-resonance-protocol",
+      "district": "Security",
+      "level": 3,
+      "status": "in-progress",
+      "description": "Browser-based cybersecurity incident-response game; README reports playable prototype build 0.3.0."
+    },
+    {
+      "name": "CyberShield Password Toolkit",
+      "repository": "https://github.com/rudranoir0-dot/cybershield-password-toolkit",
+      "district": "Security",
+      "level": 2,
+      "status": "completed",
+      "description": "Python toolkit for password-strength analysis and secure password generation."
+    },
+    {
+      "name": "CyberScan",
+      "repository": "https://github.com/rudranoir0-dot/cyberscan",
+      "district": "Security",
+      "level": 1,
+      "status": "in-progress",
+      "description": "Python toolkit for network reconnaissance, URL reputation checks, WHOIS lookup, and reports."
+    },
+    {
+      "name": "ShadowWatch",
+      "repository": "https://github.com/rudranoir0-dot/shadowwatch",
+      "district": "Security",
+      "level": 1,
+      "status": "in-progress",
+      "description": "Behavioral anomaly detection system with monitoring and risk reporting."
+    },
+    {
+      "name": "Network Intruder",
+      "repository": "https://github.com/rudranoir0-dot/Network-Intruder",
+      "district": "Security",
+      "level": 1,
+      "status": "in-progress",
+      "description": "Network monitoring tool that alerts on unfamiliar devices on a local Wi-Fi network."
+    },
+    {
+      "name": "Threat Dashboard",
+      "repository": "https://github.com/rudranoir0-dot/Threat-Dashboard",
+      "district": "Security",
+      "level": 1,
+      "status": "in-progress",
+      "description": "Terminal dashboard for public threat-intelligence feeds and CVE information."
+    },
+    {
+      "name": "OSintforge",
+      "repository": "https://github.com/rudranoir0-dot/OSintforge",
+      "district": "Research",
+      "level": 1,
+      "status": "planned",
+      "description": "Repository currently has no README/content; add project details before treating it as active."
+    }
+  ]
+}
