@@ -159,7 +159,7 @@ A cinematic, browser-based cybersecurity incident-response game where players in
 | [ShadowWatch](https://github.com/rudranoir0-dot/shadowwatch) | Security | 1 | In progress |
 | [Network Intruder](https://github.com/rudranoir0-dot/Network-Intruder) | Security | 1 | In progress |
 | [Threat Dashboard](https://github.com/rudranoir0-dot/Threat-Dashboard) | Security | 1 | In progress |
-| [OSintforge](https://github.com/rudranoir0-dot/OSintforge) | Research | 1 | In progress |
+| [OSintforge](https://github.com/rudranoir0-dot/OSintforge) | Research | 1 | Planned |
 <!-- PROJECTS:END -->
 
 The realm is generated from [`project-registry.json`](project-registry.json). Registered projects become structures; published releases from connected repositories can upgrade their buildings.

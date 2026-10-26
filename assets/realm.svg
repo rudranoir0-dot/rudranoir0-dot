@@ -1,54 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
-<title id="title">RUDRA NOIR — The Living Realm</title>
-<desc id="desc">A geometric neon fantasy city representing registered projects and skills.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07151e"/><stop offset="1" stop-color="#102b35"/></linearGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4adfc8" stroke-opacity=".08"/></pattern>
-</defs>
-<style>
-.title{font:700 24px 'Trebuchet MS',sans-serif;letter-spacing:3px;fill:#e4fff8}
-.subtitle{font:12px 'Trebuchet MS',sans-serif;letter-spacing:2px;fill:#8ebdbb}
-.label{font:600 11px 'Trebuchet MS',sans-serif;fill:#e4fff8}
-.small{font:10px 'Trebuchet MS',sans-serif;fill:#8ebdbb;letter-spacing:1px}
-.stat{font:700 22px 'Trebuchet MS',sans-serif;fill:#55f2d0}
-</style>
-<rect width="1000" height="440" rx="18" fill="url(#bg)"/>
-<rect width="1000" height="440" rx="18" fill="url(#grid)"/>
-<circle cx="850" cy="85" r="40" fill="none" stroke="#b6a0ff" stroke-width="2"/>
-<circle cx="850" cy="85" r="28" fill="none" stroke="#b6a0ff" opacity=".5"/>
-<text x="40" y="48" class="title">THE LIVING REALM</text>
-<text x="40" y="72" class="subtitle">A KINGDOM BUILT ONE QUEST AT A TIME</text>
-<path d="M40 95H960" stroke="#55f2d0" stroke-opacity=".45"/>
-<path d="M0 205 Q250 150 500 200 T1000 180 V315 H0Z" fill="#55f2d0" fill-opacity=".06"/>
-<g stroke="#55f2d0" stroke-width="1.5">
-<polygon points="120,235 150,220 180,235 150,250" fill="#55f2d0" fill-opacity=".6"/>
-<polygon points="120,235 150,250 150,300 120,285" fill="#102b35"/>
-<polygon points="150,250 180,235 180,285 150,300" fill="#173d48"/>
-<polygon points="240,205 275,188 310,205 275,222" fill="#b6a0ff" fill-opacity=".7" stroke="#b6a0ff"/>
-<polygon points="240,205 275,222 275,300 240,283" fill="#102b35" stroke="#b6a0ff"/>
-<polygon points="275,222 310,205 310,283 275,300" fill="#173d48" stroke="#b6a0ff"/>
-<polygon points="370,175 415,153 460,175 415,197" fill="#55f2d0" fill-opacity=".7"/>
-<polygon points="370,175 415,197 415,300 370,278" fill="#102b35"/>
-<polygon points="415,197 460,175 460,278 415,300" fill="#173d48"/>
-<polygon points="530,215 560,200 590,215 560,230" fill="#69c8ff" fill-opacity=".7" stroke="#69c8ff"/>
-<polygon points="530,215 560,230 560,300 530,285" fill="#102b35" stroke="#69c8ff"/>
-<polygon points="560,230 590,215 590,285 560,300" fill="#173d48" stroke="#69c8ff"/>
-<polygon points="660,190 700,170 740,190 700,210" fill="#ff8fbd" fill-opacity=".7" stroke="#ff8fbd"/>
-<polygon points="660,190 700,210 700,300 660,280" fill="#102b35" stroke="#ff8fbd"/>
-<polygon points="700,210 740,190 740,280 700,300" fill="#173d48" stroke="#ff8fbd"/>
-<polygon points="800,235 830,220 860,235 830,250" fill="#55f2d0" fill-opacity=".7"/>
-<polygon points="800,235 830,250 830,300 800,285" fill="#102b35"/>
-<polygon points="830,250 860,235 860,285 830,300" fill="#173d48"/>
-</g>
-<g stroke="#55f2d0" stroke-width="2">
-<path d="M130 260h10m-10 12h10M250 240h12m-12 14h12m-12 14h12M385 220h14m-14 16h14m-14 16h14m18 -32h14m-14 16h14m-14 16h14M540 250h10m-10 14h10M675 230h12m-12 16h12m-12 16h12M810 260h10m-10 12h10"/>
-</g>
-<path d="M25 320 L180 295 L330 320 L500 288 L670 320 L820 295 L975 320 L975 350 L820 325 L670 350 L500 318 L330 350 L180 325 L25 350Z" fill="#153b43" stroke="#55f2d0" stroke-opacity=".3"/>
-<text x="150" y="330" text-anchor="middle" class="label">SECURITY</text>
-<text x="415" y="330" text-anchor="middle" class="label">CORE TOWER</text>
-<text x="700" y="330" text-anchor="middle" class="label">RESEARCH</text>
-<path d="M30 375H970" stroke="#55f2d0" stroke-opacity=".25"/>
-<text x="45" y="408" class="stat">7</text><text x="45" y="426" class="small">REGISTERED QUESTS</text>
-<text x="350" y="408" class="stat">4</text><text x="350" y="426" class="small">DISTRICTS TO EXPLORE</text>
-<text x="700" y="408" class="stat">∞</text><text x="700" y="426" class="small">ROOM TO GROW</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img">
+<title>RUDRA NOIR — The Living Realm</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07151e"/><stop offset="1" stop-color="#102b35"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4adfc8" stroke-opacity=".08"/></pattern></defs>
+<style>.title{font:700 24px sans-serif;letter-spacing:3px;fill:#e4fff8}.head{font:12px sans-serif;letter-spacing:2px;fill:#8ebdbb}.label{font:600 10px sans-serif;fill:#e4fff8}.small{font:9px sans-serif;fill:#8ebdbb}.stat{font:700 22px sans-serif;fill:#55f2d0}</style>
+<rect width="1000" height="450" rx="18" fill="url(#bg)"/><rect width="1000" height="450" rx="18" fill="url(#grid)"/>
+<circle cx="850" cy="82" r="36" fill="none" stroke="#b6a0ff" stroke-width="1.5"/><circle cx="850" cy="82" r="25" fill="none" stroke="#b6a0ff" opacity=".5"/>
+<text x="40" y="45" class="title">THE LIVING REALM</text><text x="40" y="68" class="head">A KINGDOM BUILT ONE QUEST AT A TIME</text><path d="M40 92H960" stroke="#55f2d0" stroke-opacity=".4"/>
+<path d="M0 190 Q250 145 500 190 T1000 175 V300 H0Z" fill="#55f2d0" fill-opacity=".06"/>
+<path d="M25 320 L180 292 L330 320 L500 288 L670 320 L820 292 L975 320 L975 350 L820 322 L670 350 L500 318 L330 350 L180 322 L25 350Z" fill="#153b43" stroke="#55f2d0" stroke-opacity=".25"/>
+<polygon points="105.71428571428571,183 132.71428571428572,193 105.71428571428571,203 78.71428571428571,193" fill="#55f2d0" opacity="0.76"/><polygon points="78.71428571428571,193 105.71428571428571,203 105.71428571428571,300 78.71428571428571,300" fill="#102b35" stroke="#55f2d0"/><polygon points="105.71428571428571,203 132.71428571428572,193 132.71428571428572,300 105.71428571428571,300" fill="#173d48" stroke="#55f2d0"/><text x="105.71428571428571" y="322" text-anchor="middle" class="label">EchoSec: Resonance</text><text x="105.71428571428571" y="336" text-anchor="middle" class="small">LVL 3 · SECURITY</text><path d="M86.71428571428571 210 l6 -2 M112.71428571428571 208 l6 -3" stroke="#55f2d0" stroke-width="2"/><path d="M86.71428571428571 223 l6 -2 M112.71428571428571 221 l6 -3" stroke="#55f2d0" stroke-width="2"/><path d="M86.71428571428571 236 l6 -2 M112.71428571428571 234 l6 -3" stroke="#55f2d0" stroke-width="2"/><path d="M86.71428571428571 249 l6 -2 M112.71428571428571 247 l6 -3" stroke="#55f2d0" stroke-width="2"/><polygon points="237.1428571428571,207 264.1428571428571,217 237.1428571428571,227 210.1428571428571,217" fill="#55f2d0" opacity="1"/><polygon points="210.1428571428571,217 237.1428571428571,227 237.1428571428571,300 210.1428571428571,300" fill="#102b35" stroke="#55f2d0"/><polygon points="237.1428571428571,227 264.1428571428571,217 264.1428571428571,300 237.1428571428571,300" fill="#173d48" stroke="#55f2d0"/><text x="237.1428571428571" y="322" text-anchor="middle" class="label">CyberShield Passwo</text><text x="237.1428571428571" y="336" text-anchor="middle" class="small">LVL 2 · SECURITY</text><path d="M218.1428571428571 234 l6 -2 M244.1428571428571 232 l6 -3" stroke="#55f2d0" stroke-width="2"/><path d="M218.1428571428571 247 l6 -2 M244.1428571428571 245 l6 -3" stroke="#55f2d0" stroke-width="2"/><path d="M218.1428571428571 260 l6 -2 M244.1428571428571 258 l6 -3" stroke="#55f2d0" stroke-width="2"/><polygon points="368.57142857142856,231 395.57142857142856,241 368.57142857142856,251 341.57142857142856,241" fill="#55f2d0" opacity="0.76"/><polygon points="341.57142857142856,241 368.57142857142856,251 368.57142857142856,300 341.57142857142856,300" fill="#102b35" stroke="#55f2d0"/><polygon points="368.57142857142856,251 395.57142857142856,241 395.57142857142856,300 368.57142857142856,300" fill="#173d48" stroke="#55f2d0"/><text x="368.57142857142856" y="322" text-anchor="middle" class="label">CyberScan</text><text x="368.57142857142856" y="336" text-anchor="middle" class="small">LVL 1 · SECURITY</text><path d="M349.57142857142856 258 l6 -2 M375.57142857142856 256 l6 -3" stroke="#55f2d0" stroke-width="2"/><path d="M349.57142857142856 271 l6 -2 M375.57142857142856 269 l6 -3" stroke="#55f2d0" stroke-width="2"/><polygon points="499.99999999999994,231 527.0,241 499.99999999999994,251 472.99999999999994,241" fill="#55f2d0" opacity="0.76"/><polygon points="472.99999999999994,241 499.99999999999994,251 499.99999999999994,300 472.99999999999994,300" fill="#102b35" stroke="#55f2d0"/><polygon points="499.99999999999994,251 527.0,241 527.0,300 499.99999999999994,300" fill="#173d48" stroke="#55f2d0"/><text x="499.99999999999994" y="322" text-anchor="middle" class="label">ShadowWatch</text><text x="499.99999999999994" y="336" text-anchor="middle" class="small">LVL 1 · SECURITY</text><path d="M480.99999999999994 258 l6 -2 M506.99999999999994 256 l6 -3" stroke="#55f2d0" stroke-width="2"/><path d="M480.99999999999994 271 l6 -2 M506.99999999999994 269 l6 -3" stroke="#55f2d0" stroke-width="2"/><polygon points="631.4285714285713,231 658.4285714285713,241 631.4285714285713,251 604.4285714285713,241" fill="#55f2d0" opacity="0.76"/><polygon points="604.4285714285713,241 631.4285714285713,251 631.4285714285713,300 604.4285714285713,300" fill="#102b35" stroke="#55f2d0"/><polygon points="631.4285714285713,251 658.4285714285713,241 658.4285714285713,300 631.4285714285713,300" fill="#173d48" stroke="#55f2d0"/><text x="631.4285714285713" y="322" text-anchor="middle" class="label">Network Intruder</text><text x="631.4285714285713" y="336" text-anchor="middle" class="small">LVL 1 · SECURITY</text><path d="M612.4285714285713 258 l6 -2 M638.4285714285713 256 l6 -3" stroke="#55f2d0" stroke-width="2"/><path d="M612.4285714285713 271 l6 -2 M638.4285714285713 269 l6 -3" stroke="#55f2d0" stroke-width="2"/><polygon points="762.8571428571428,231 789.8571428571428,241 762.8571428571428,251 735.8571428571428,241" fill="#55f2d0" opacity="0.76"/><polygon points="735.8571428571428,241 762.8571428571428,251 762.8571428571428,300 735.8571428571428,300" fill="#102b35" stroke="#55f2d0"/><polygon points="762.8571428571428,251 789.8571428571428,241 789.8571428571428,300 762.8571428571428,300" fill="#173d48" stroke="#55f2d0"/><text x="762.8571428571428" y="322" text-anchor="middle" class="label">Threat Dashboard</text><text x="762.8571428571428" y="336" text-anchor="middle" class="small">LVL 1 · SECURITY</text><path d="M743.8571428571428 258 l6 -2 M769.8571428571428 256 l6 -3" stroke="#55f2d0" stroke-width="2"/><path d="M743.8571428571428 271 l6 -2 M769.8571428571428 269 l6 -3" stroke="#55f2d0" stroke-width="2"/><polygon points="894.2857142857142,231 921.2857142857142,241 894.2857142857142,251 867.2857142857142,241" fill="#ff8fbd" opacity="0.4"/><polygon points="867.2857142857142,241 894.2857142857142,251 894.2857142857142,300 867.2857142857142,300" fill="#102b35" stroke="#ff8fbd"/><polygon points="894.2857142857142,251 921.2857142857142,241 921.2857142857142,300 894.2857142857142,300" fill="#173d48" stroke="#ff8fbd"/><text x="894.2857142857142" y="322" text-anchor="middle" class="label">OSintforge</text><text x="894.2857142857142" y="336" text-anchor="middle" class="small">LVL 1 · RESEARCH</text><path d="M875.2857142857142 258 l6 -2 M901.2857142857142 256 l6 -3" stroke="#ff8fbd" stroke-width="2"/><path d="M875.2857142857142 271 l6 -2 M901.2857142857142 269 l6 -3" stroke="#ff8fbd" stroke-width="2"/>
+<path d="M30 380H970" stroke="#55f2d0" stroke-opacity=".25"/>
+<text x="45" y="410" class="stat">7</text><text x="45" y="428" class="small">STRUCTURES</text>
+<text x="270" y="410" class="stat">1</text><text x="270" y="428" class="small">COMPLETED QUESTS</text>
+<text x="520" y="410" class="stat">10</text><text x="520" y="428" class="small">TOTAL LEVELS</text>
+<text x="760" y="410" class="stat">2</text><text x="760" y="428" class="small">DISTRICTS</text></svg>
