@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+<title id="title">RUDRA NOIR — The Living Realm</title>
+<desc id="desc">A geometric neon fantasy city representing registered projects and skills.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07151e"/><stop offset="1" stop-color="#102b35"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4adfc8" stroke-opacity=".08"/></pattern>
+</defs>
+<style>
+.title{font:700 24px 'Trebuchet MS',sans-serif;letter-spacing:3px;fill:#e4fff8}
+.subtitle{font:12px 'Trebuchet MS',sans-serif;letter-spacing:2px;fill:#8ebdbb}
+.label{font:600 11px 'Trebuchet MS',sans-serif;fill:#e4fff8}
+.small{font:10px 'Trebuchet MS',sans-serif;fill:#8ebdbb;letter-spacing:1px}
+.stat{font:700 22px 'Trebuchet MS',sans-serif;fill:#55f2d0}
+</style>
+<rect width="1000" height="440" rx="18" fill="url(#bg)"/>
+<rect width="1000" height="440" rx="18" fill="url(#grid)"/>
+<circle cx="850" cy="85" r="40" fill="none" stroke="#b6a0ff" stroke-width="2"/>
+<circle cx="850" cy="85" r="28" fill="none" stroke="#b6a0ff" opacity=".5"/>
+<text x="40" y="48" class="title">THE LIVING REALM</text>
+<text x="40" y="72" class="subtitle">A KINGDOM BUILT ONE QUEST AT A TIME</text>
+<path d="M40 95H960" stroke="#55f2d0" stroke-opacity=".45"/>
+<path d="M0 205 Q250 150 500 200 T1000 180 V315 H0Z" fill="#55f2d0" fill-opacity=".06"/>
+<g stroke="#55f2d0" stroke-width="1.5">
+<polygon points="120,235 150,220 180,235 150,250" fill="#55f2d0" fill-opacity=".6"/>
+<polygon points="120,235 150,250 150,300 120,285" fill="#102b35"/>
+<polygon points="150,250 180,235 180,285 150,300" fill="#173d48"/>
+<polygon points="240,205 275,188 310,205 275,222" fill="#b6a0ff" fill-opacity=".7" stroke="#b6a0ff"/>
+<polygon points="240,205 275,222 275,300 240,283" fill="#102b35" stroke="#b6a0ff"/>
+<polygon points="275,222 310,205 310,283 275,300" fill="#173d48" stroke="#b6a0ff"/>
+<polygon points="370,175 415,153 460,175 415,197" fill="#55f2d0" fill-opacity=".7"/>
+<polygon points="370,175 415,197 415,300 370,278" fill="#102b35"/>
+<polygon points="415,197 460,175 460,278 415,300" fill="#173d48"/>
+<polygon points="530,215 560,200 590,215 560,230" fill="#69c8ff" fill-opacity=".7" stroke="#69c8ff"/>
+<polygon points="530,215 560,230 560,300 530,285" fill="#102b35" stroke="#69c8ff"/>
+<polygon points="560,230 590,215 590,285 560,300" fill="#173d48" stroke="#69c8ff"/>
+<polygon points="660,190 700,170 740,190 700,210" fill="#ff8fbd" fill-opacity=".7" stroke="#ff8fbd"/>
+<polygon points="660,190 700,210 700,300 660,280" fill="#102b35" stroke="#ff8fbd"/>
+<polygon points="700,210 740,190 740,280 700,300" fill="#173d48" stroke="#ff8fbd"/>
+<polygon points="800,235 830,220 860,235 830,250" fill="#55f2d0" fill-opacity=".7"/>
+<polygon points="800,235 830,250 830,300 800,285" fill="#102b35"/>
+<polygon points="830,250 860,235 860,285 830,300" fill="#173d48"/>
+</g>
+<g stroke="#55f2d0" stroke-width="2">
+<path d="M130 260h10m-10 12h10M250 240h12m-12 14h12m-12 14h12M385 220h14m-14 16h14m-14 16h14m18 -32h14m-14 16h14m-14 16h14M540 250h10m-10 14h10M675 230h12m-12 16h12m-12 16h12M810 260h10m-10 12h10"/>
+</g>
+<path d="M25 320 L180 295 L330 320 L500 288 L670 320 L820 295 L975 320 L975 350 L820 325 L670 350 L500 318 L330 350 L180 325 L25 350Z" fill="#153b43" stroke="#55f2d0" stroke-opacity=".3"/>
+<text x="150" y="330" text-anchor="middle" class="label">SECURITY</text>
+<text x="415" y="330" text-anchor="middle" class="label">CORE TOWER</text>
+<text x="700" y="330" text-anchor="middle" class="label">RESEARCH</text>
+<path d="M30 375H970" stroke="#55f2d0" stroke-opacity=".25"/>
+<text x="45" y="408" class="stat">7</text><text x="45" y="426" class="small">REGISTERED QUESTS</text>
+<text x="350" y="408" class="stat">4</text><text x="350" y="426" class="small">DISTRICTS TO EXPLORE</text>
+<text x="700" y="408" class="stat">∞</text><text x="700" y="426" class="small">ROOM TO GROW</text>
+</svg>
