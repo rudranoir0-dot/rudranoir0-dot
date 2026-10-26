@@ -1,0 +1,43 @@
+name: Update the Living Realm
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "project-registry.json"
+      - "scripts/**"
+      - ".github/workflows/update-realm.yml"
+  release:
+    types: [published]
+  workflow_dispatch:
+  repository_dispatch:
+    types: [project_updated, project_released]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: living-realm-update
+  cancel-in-progress: false
+
+jobs:
+  build-realm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate realm
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: python scripts/build_realm.py
+      - name: Commit generated files
+        run: |
+          if git diff --quiet; then echo "Realm is already up to date."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add project-registry.json assets/realm.svg README.md
+          git commit -m "chore: regenerate living realm"
+          git push
