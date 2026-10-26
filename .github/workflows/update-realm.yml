@@ -1,6 +1,13 @@
 name: Update the Living Realm
 
 on:
+  pull_request:
+    paths:
+      - "project-registry.json"
+      - "scripts/**"
+      - "assets/realm.svg"
+      - "README.md"
+      - ".github/workflows/update-realm.yml"
   push:
     branches: [main]
     paths:
@@ -34,6 +41,7 @@ jobs:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: python scripts/build_realm.py
       - name: Commit generated files
+        if: github.event_name != 'pull_request'
         run: |
           if git diff --quiet; then echo "Realm is already up to date."; exit 0; fi
           git config user.name "github-actions[bot]"
