@@ -138,6 +138,30 @@ A cinematic, browser-based cybersecurity incident-response game where players in
 
 ---
 
+---
+
+## ⟡ THE LIVING REALM
+
+<div align="center">
+
+*A kingdom that grows as you build.*
+
+<img src="assets/realm.svg" alt="The Living Realm — a generated geometric neon fantasy city" width="100%">
+
+</div>
+
+<!-- PROJECTS:START -->
+| Project | District | Level | Status |
+|---|---|---:|---|
+<!-- PROJECTS:END -->
+
+The realm is generated from [`project-registry.json`](project-registry.json). Registered projects become structures; published releases from connected repositories can upgrade their buildings.
+
+- [Connect other project repositories](docs/CONNECTING_PROJECTS.md)
+- [View the project registry](project-registry.json)
+
+> The registry is the source of truth. The SVG and table are generated outputs.
+
 ## `> CONNECT`
 
 <div align="center">
