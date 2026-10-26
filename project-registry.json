@@ -8,7 +8,7 @@
       "district": "Security",
       "level": 3,
       "status": "in-progress",
-      "description": "Interactive incident-response game"
+      "description": "Browser-based cybersecurity incident-response game; README reports playable prototype build 0.3.0."
     },
     {
       "name": "CyberShield Password Toolkit",
@@ -16,7 +16,7 @@
       "district": "Security",
       "level": 2,
       "status": "completed",
-      "description": "Password analysis and secure password generation"
+      "description": "Python toolkit for password-strength analysis and secure password generation."
     },
     {
       "name": "CyberScan",
@@ -24,7 +24,7 @@
       "district": "Security",
       "level": 1,
       "status": "in-progress",
-      "description": "Defensive scanning and reporting"
+      "description": "Python toolkit for network reconnaissance, URL reputation checks, WHOIS lookup, and reports."
     },
     {
       "name": "ShadowWatch",
@@ -32,7 +32,7 @@
       "district": "Security",
       "level": 1,
       "status": "in-progress",
-      "description": "Behavioral anomaly detection"
+      "description": "Behavioral anomaly detection system with monitoring and risk reporting."
     },
     {
       "name": "Network Intruder",
@@ -40,7 +40,7 @@
       "district": "Security",
       "level": 1,
       "status": "in-progress",
-      "description": "Unknown-device detection"
+      "description": "Network monitoring tool that alerts on unfamiliar devices on a local Wi-Fi network."
     },
     {
       "name": "Threat Dashboard",
@@ -48,15 +48,15 @@
       "district": "Security",
       "level": 1,
       "status": "in-progress",
-      "description": "Security event monitoring"
+      "description": "Terminal dashboard for public threat-intelligence feeds and CVE information."
     },
     {
       "name": "OSintforge",
       "repository": "https://github.com/rudranoir0-dot/OSintforge",
       "district": "Research",
       "level": 1,
-      "status": "in-progress",
-      "description": "OSINT learning and digital-footprint investigation"
+      "status": "planned",
+      "description": "Repository currently has no README/content; add project details before treating it as active."
     }
   ]
 }
